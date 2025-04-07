@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>music/ChessDrop.wav</file>
+        <file>music/menuconfirm.wav</file>
+        <file>music/success.wav</file>
+        <file>music/voice/ttsmaker-file-2024-12-16-21-50-20.mp3</file>
+        <file>music/voice/ttsmaker-file-2024-12-16-21-51-35.mp3</file>
+        <file>music/voice/ttsmaker-file-2024-12-16-21-52-3.mp3</file>
+        <file>music/voice/ttsmaker-file-2024-12-16-21-52-4.mp3</file>
+        <file>music/voice/ttsmaker-file-2024-12-16-21-54-36.mp3</file>
+        <file>music/voice/ttsmaker-file-2024-12-16-21-55-21.mp3</file>
+        <file>music/voice/ttsmaker-file-2024-12-16-21-56-10.mp3</file>
+        <file>music/voice/ttsmaker-file-2024-12-16-21-56-40.mp3</file>
+        <file>music/voice/ttsmaker-file-2024-12-16-21-57-50.mp3</file>
+        <file>music/voice/ttsmaker-file-2024-12-16-22-12-6.mp3</file>
+    </qresource>
+</RCC>

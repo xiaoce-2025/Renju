@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/new/prefix1"/>
+    <qresource prefix="/">
+        <file>music/background_music/An_Everlasting_Dream_Intertwined.mp3</file>
+        <file>music/background_music/As_Light_Rain_Falls_Without_Reason.mp3</file>
+        <file>music/background_music/bgm1.mp3</file>
+        <file>music/background_music/Duel!_The_Summoners'_Summit!.mp3</file>
+        <file>music/background_music/Duvet.mp3</file>
+        <file>music/background_music/Ephemeral_Memories.mp3</file>
+        <file>music/background_music/Firefly_Glimmers.mp3</file>
+        <file>music/background_music/Komorebi.mp3</file>
+        <file>music/background_music/Make_Haste_Partern.mp3</file>
+        <file>music/background_music/Perpetual_Motion_of_Wind.mp3</file>
+        <file>music/background_music/SecertSummerParadise.mp3</file>
+        <file>music/background_music/The_Exquisite_Night_Chimes.mp3</file>
+        <file>music/background_music/Wake.mp3</file>
+        <file>caidan/shutdown.bat</file>
+    </qresource>
+</RCC>

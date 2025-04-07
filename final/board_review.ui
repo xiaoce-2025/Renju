@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Board_Review</class>
+ <widget class="QWidget" name="Board_Review">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>982</width>
+    <height>677</height>
+   </rect>
+  </property>
+  <property name="cursor">
+   <cursorShape>ArrowCursor</cursorShape>
+  </property>
+  <property name="windowTitle">
+   <string>对局复盘</string>
+  </property>
+  <widget class="QLabel" name="how_win">
+   <property name="geometry">
+    <rect>
+     <x>640</x>
+     <y>160</y>
+     <width>331</width>
+     <height>19</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>获胜原因</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="who_win">
+   <property name="geometry">
+    <rect>
+     <x>640</x>
+     <y>130</y>
+     <width>301</width>
+     <height>19</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>获胜方</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="chess_information">
+   <property name="geometry">
+    <rect>
+     <x>640</x>
+     <y>100</y>
+     <width>301</width>
+     <height>19</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>对局时间</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="chess_mode">
+   <property name="geometry">
+    <rect>
+     <x>640</x>
+     <y>40</y>
+     <width>301</width>
+     <height>19</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>对局模式</string>
+   </property>
+  </widget>
+  <widget class="QCheckBox" name="show_step_do">
+   <property name="geometry">
+    <rect>
+     <x>640</x>
+     <y>280</y>
+     <width>211</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>显示步数</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="shezhi_review">
+   <property name="geometry">
+    <rect>
+     <x>640</x>
+     <y>250</y>
+     <width>311</width>
+     <height>19</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>设置：</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="rule_show">
+   <property name="geometry">
+    <rect>
+     <x>640</x>
+     <y>70</y>
+     <width>301</width>
+     <height>19</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>禁手信息:</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="previous">
+   <property name="geometry">
+    <rect>
+     <x>620</x>
+     <y>200</y>
+     <width>95</width>
+     <height>28</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="text">
+    <string>上一步</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="step_show">
+   <property name="geometry">
+    <rect>
+     <x>740</x>
+     <y>200</y>
+     <width>146</width>
+     <height>29</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>复盘步数</string>
+   </property>
+   <property name="alignment">
+    <set>Qt::AlignmentFlag::AlignCenter</set>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="next">
+   <property name="geometry">
+    <rect>
+     <x>820</x>
+     <y>200</y>
+     <width>101</width>
+     <height>28</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="mouseTracking">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>下一步</string>
+   </property>
+  </widget>
+  <widget class="QCheckBox" name="show_winning_line">
+   <property name="geometry">
+    <rect>
+     <x>640</x>
+     <y>310</y>
+     <width>301</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>显示胜负判定线</string>
+   </property>
+  </widget>
+ </widget>
+ <tabstops>
+  <tabstop>show_step_do</tabstop>
+ </tabstops>
+ <resources/>
+ <connections/>
+</ui>

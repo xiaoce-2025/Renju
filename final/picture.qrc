@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/chess/rule">
+        <file>pictures/gamerule.png</file>
+    </qresource>
+    <qresource prefix="/title"/>
+    <qresource prefix="/">
+        <file>pictures/title.png</file>
+        <file>pictures/chess_black.png</file>
+        <file>pictures/chess_white.png</file>
+        <file>pictures/button/quick_hover_background.png</file>
+        <file>pictures/button/Uni_Main_Button.png</file>
+        <file>pictures/button/Uni_Button_board.png</file>
+        <file>pictures/board_background.png</file>
+        <file>pictures/hidden.png</file>
+        <file>pictures/messgagebox_funny.png</file>
+        <file>pictures/black_transparent.png</file>
+        <file>pictures/white_transparent.png</file>
+    </qresource>
+    <qresource prefix="/button"/>
+</RCC>
